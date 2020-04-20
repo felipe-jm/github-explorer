@@ -1,7 +1,11 @@
 <h1 align="center">
-<img alt="Github Explorer" src="./src/assets/logo.png" style="width: 64px;" />
+<img alt="Github Explorer" src="./src/assets/logo.png" width="64" />
 <br>
 </h1>
+
+<h4 align="center">
+  Explore! :octocat:
+</h4>
 
 ## :computer: Run it!
 
